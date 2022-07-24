@@ -1,4 +1,4 @@
-#<p align="center">Hi there 👋</p>
+<p align="center"><font size='70'>Hi there 👋</p>
 
 ### I'm YayKa, 
 
