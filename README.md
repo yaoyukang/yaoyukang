@@ -1,5 +1,4 @@
-<center># Hi there 👋</center>
-
+<p align="center"># Hi there 👋</p>
 ### I'm YayKa, 
 
 A master's degree from Shandong Agricultural University 👨🏻‍💻 
