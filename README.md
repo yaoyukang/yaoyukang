@@ -1,28 +1,17 @@
 ### Hi there 👋
-# Hello there 👋 
 
-### I'm Vatana Chhorn, 
+### I'm YayKa, 
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
+A master's degree from Shandong Agricultural University 👨🏻‍💻 
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 ### 💼  Things that I'm currently working on: 
-* Doing bachelor's degree in Software Engineering
-* Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
-* Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
-* Inquiring more about UX/UI.  
-* Looking forward to take a Web Development Courses in future besides school curriculum. 
+* 
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
 
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
-* Read a book a week
-* Workout 3 days in a row and take a day break 
-* Avoid the over using social media
-* Adapting the minimalism life style
 * 🔜
 
  
@@ -59,17 +48,3 @@ https://dribbble.com/shots/9344637-working-hard
 
 ⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
 
-<!--
-**yaoyukang/yaoyukang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
